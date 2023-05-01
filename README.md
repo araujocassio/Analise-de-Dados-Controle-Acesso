@@ -1,4 +1,6 @@
 # Análise de Dados de Ocupação de um Prédio
+
+Os dados foram extraidos SQL do Delta Controls
 Este é um projeto de análise de dados de ocupação de um prédio que tem como objetivo fornecer insights sobre a utilização do espaço do prédio. O projeto utiliza dados de catracas e smartcard instalados em diversas áreas do prédio para coletar informações sobre a ocupação do prédio.
 
 # Dados Utilizados
