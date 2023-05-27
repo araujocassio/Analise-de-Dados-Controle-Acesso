@@ -32,6 +32,6 @@ Seaborn
 
 ![image](https://user-images.githubusercontent.com/98669544/236030834-83c24b15-1d90-4102-9bfe-049feb62b151.png)
 
-![image](https://github.com/araujocassio/ControleAcesso/assets/98669544/0aba6fe4-f293-46e2-a202-b3e67f7f23b2)
+![image](https://github.com/araujocassio/ControleAcesso/assets/98669544/dde882d4-46e7-452a-a33f-4e7b715f45bf)
 
 
